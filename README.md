@@ -127,10 +127,6 @@ In this project, Grad-CAM allows clinicians to see exactly where the model "look
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🤝 Acknowledgments
 
 - Developed for the **Deep Learning For Perception** course.
